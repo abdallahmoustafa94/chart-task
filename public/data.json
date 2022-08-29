@@ -1,0 +1,32 @@
+ [
+    {
+    "month": "Jan",
+    "data": [
+    {"label": "Advertising", "value": 11}
+    ]
+    
+    },
+    {
+    "month": "Feb",
+    "data": [
+    {"label": "Rent", "value": 2},
+    {"label": "Advertising", "value": 12},
+    {"label": "phone", "value": 22}
+    ]
+    },
+    {
+    "month": "Mar",
+    "data": [
+    {"label": "Rent", "value": 3},
+    {"label": "Advertising", "value": 13},
+    {"label": "Office", "value": 18}
+    ]
+    },
+    {
+    "month": "Apr",
+    "data": [
+    {"label": "Rent", "value": 4},
+    {"label": "Advertising", "value": 14}
+    ]
+    }
+    ]
